@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word2Vec", "Word2Vec\Word2Vec.csproj", "{0CF3360A-F238-485A-9FAB-7052FB760931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance", "Distance\Distance.csproj", "{BC62FC89-1CA4-470E-A6DD-3A747A648DDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordAnalogy", "WordAnalogy\WordAnalogy.csproj", "{11F8DE34-A201-4377-A41E-A415F55B3EC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{728F4B22-8F24-4544-BD53-F00AF347298D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CF3360A-F238-485A-9FAB-7052FB760931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF3360A-F238-485A-9FAB-7052FB760931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF3360A-F238-485A-9FAB-7052FB760931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF3360A-F238-485A-9FAB-7052FB760931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC62FC89-1CA4-470E-A6DD-3A747A648DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC62FC89-1CA4-470E-A6DD-3A747A648DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC62FC89-1CA4-470E-A6DD-3A747A648DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC62FC89-1CA4-470E-A6DD-3A747A648DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11F8DE34-A201-4377-A41E-A415F55B3EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F8DE34-A201-4377-A41E-A415F55B3EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F8DE34-A201-4377-A41E-A415F55B3EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F8DE34-A201-4377-A41E-A415F55B3EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{728F4B22-8F24-4544-BD53-F00AF347298D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728F4B22-8F24-4544-BD53-F00AF347298D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728F4B22-8F24-4544-BD53-F00AF347298D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728F4B22-8F24-4544-BD53-F00AF347298D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
