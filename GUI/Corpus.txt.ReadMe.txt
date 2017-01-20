@@ -1,0 +1,5 @@
+Please download and rename the following file:
+
+http://mattmahoney.net/dc/text8.zip
+
+Renaming the file inside the zip to: Corput.txt
