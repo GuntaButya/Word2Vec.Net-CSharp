@@ -1,0 +1,12 @@
+D:\GuntaButya\Word2Vec.Net-CSharp\GUI\bin\Debug\Corpus.txt
+D:\GuntaButya\Word2Vec.Net-CSharp\GUI\bin\Debug\Distance.dll
+D:\GuntaButya\Word2Vec.Net-CSharp\GUI\bin\Debug\Word2Vec.dll
+D:\GuntaButya\Word2Vec.Net-CSharp\GUI\bin\Debug\WordAnalogy.dll
+D:\GuntaButya\Word2Vec.Net-CSharp\GUI\bin\Debug\Distance.pdb
+D:\GuntaButya\Word2Vec.Net-CSharp\GUI\bin\Debug\Word2Vec.pdb
+D:\GuntaButya\Word2Vec.Net-CSharp\GUI\bin\Debug\WordAnalogy.pdb
+D:\GuntaButya\Word2Vec.Net-CSharp\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\GuntaButya\Word2Vec.Net-CSharp\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\GuntaButya\Word2Vec.Net-CSharp\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\GuntaButya\Word2Vec.Net-CSharp\GUI\obj\Debug\GUI.exe
+D:\GuntaButya\Word2Vec.Net-CSharp\GUI\obj\Debug\GUI.pdb

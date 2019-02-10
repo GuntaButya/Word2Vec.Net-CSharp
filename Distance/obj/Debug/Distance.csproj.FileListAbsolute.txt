@@ -1,0 +1,6 @@
+D:\GuntaButya\Word2Vec.Net-CSharp\Distance\bin\Debug\Distance.dll
+D:\GuntaButya\Word2Vec.Net-CSharp\Distance\bin\Debug\Distance.pdb
+D:\GuntaButya\Word2Vec.Net-CSharp\Distance\obj\Debug\Distance.csprojAssemblyReference.cache
+D:\GuntaButya\Word2Vec.Net-CSharp\Distance\obj\Debug\Distance.csproj.CoreCompileInputs.cache
+D:\GuntaButya\Word2Vec.Net-CSharp\Distance\obj\Debug\Distance.dll
+D:\GuntaButya\Word2Vec.Net-CSharp\Distance\obj\Debug\Distance.pdb

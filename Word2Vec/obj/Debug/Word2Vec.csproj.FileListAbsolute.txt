@@ -1,0 +1,6 @@
+D:\GuntaButya\Word2Vec.Net-CSharp\Word2Vec\bin\Debug\Word2Vec.dll
+D:\GuntaButya\Word2Vec.Net-CSharp\Word2Vec\bin\Debug\Word2Vec.pdb
+D:\GuntaButya\Word2Vec.Net-CSharp\Word2Vec\obj\Debug\Word2Vec.csprojAssemblyReference.cache
+D:\GuntaButya\Word2Vec.Net-CSharp\Word2Vec\obj\Debug\Word2Vec.csproj.CoreCompileInputs.cache
+D:\GuntaButya\Word2Vec.Net-CSharp\Word2Vec\obj\Debug\Word2Vec.dll
+D:\GuntaButya\Word2Vec.Net-CSharp\Word2Vec\obj\Debug\Word2Vec.pdb

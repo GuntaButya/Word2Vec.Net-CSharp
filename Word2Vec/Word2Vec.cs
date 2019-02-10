@@ -155,8 +155,10 @@
 
             for (var i = 0; i < ExpTableSize; i++)
             {
+
                 // Precompute the exp() table:
-                _expTable[i] = (float)Math.Exp((i / ExpTableSize * 2 - 1) * MaxExp);
+                // Bug Fix see: https://github.com/GuntaButya/Word2Vec.Net-CSharp/issues/1
+                _expTable[i] = (float)Math.Exp((((double)i) / ((double)ExpTableSize) * 2.0 - 1.0) * ((double)MaxExp));
 
                 // Precompute f(x) = x / (x + 1):
                 _expTable[i] = _expTable[i] / (_expTable[i] + 1);
@@ -1347,5 +1349,4 @@
         }
 
     }
-
 }

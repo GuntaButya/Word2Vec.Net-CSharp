@@ -1,0 +1,6 @@
+D:\GuntaButya\Word2Vec.Net-CSharp\WordAnalogy\bin\Debug\WordAnalogy.dll
+D:\GuntaButya\Word2Vec.Net-CSharp\WordAnalogy\bin\Debug\WordAnalogy.pdb
+D:\GuntaButya\Word2Vec.Net-CSharp\WordAnalogy\obj\Debug\WordAnalogy.csprojAssemblyReference.cache
+D:\GuntaButya\Word2Vec.Net-CSharp\WordAnalogy\obj\Debug\WordAnalogy.csproj.CoreCompileInputs.cache
+D:\GuntaButya\Word2Vec.Net-CSharp\WordAnalogy\obj\Debug\WordAnalogy.dll
+D:\GuntaButya\Word2Vec.Net-CSharp\WordAnalogy\obj\Debug\WordAnalogy.pdb
